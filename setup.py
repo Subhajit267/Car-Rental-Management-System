@@ -1,5 +1,9 @@
 """WELCOME TO CAR MANAGEMENT VERSION 1.10"""
-"""THIS IS THE MAIN FILE OF THE PROGRAM, EACH SCREEN INSTANCE IS STORED AS A FUNCTION AND IS EXECUTED AFTER ITS PREVIOUS SCREEN EXECUTION IS TERINATED VIA A USER INPUT"""
+'''
+    This is setup script for installing CRMS
+    Author: SUBHAJIT HALDER 
+       DATE: 12/01/2024
+'''
 
 """Importing os,sys and my modules to gain access to system commands and the visual elements and string tables."""
 
@@ -231,4 +235,5 @@ def scr4():
 scr1()
 scr2()
 scr3()
+
 
