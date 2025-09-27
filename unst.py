@@ -1,7 +1,9 @@
-"""welcome to car management version 3.05""" #main program
-"""BETA 2, full functionality with csv files, all features work; sql connectivity absent"""
-"""this is the main file of the program, each screen instance is stored as a function and is executed after its previous screen execution is terinated via a user input"""
-"""Developer: SUBHAJIT HALDER"""
+"""welcome to car management version 3.05""" 
+'''
+    This is unistallation script for uninstalling CRMS
+    Author: SUBHAJIT HALDER 
+       DATE: 12/01/2024
+'''
 """importing os,sys and my modules to gain access to system commands and the visual elements and string tables."""
 
 """file imports"""
@@ -121,6 +123,7 @@ else:
     input();
     remove(argv[0])
     
+
 
 
 
