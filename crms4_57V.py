@@ -12,7 +12,7 @@ from time import *
 #It contains the cursor manipulation function named gotoxy, user icons, progress bar and program logo  
 
 """LIBRARY IMPORTS"""
-import sys,os,ctypes     #using library ctypes to get the classic c/c++ functions to create a local gotoxy function here in python.
+import ctypes     #using library ctypes to get the classic c/c++ functions to create a local gotoxy function here in python.
 import time as t        #time is used for sleep and; os, sys libraries are used to use cmd commands within python such as changing the screen size to enable full screen even in windows 7 and lower, this proram works on any machine with win xp sp3 and above with python 3.xx preinstalled. 
 
 
