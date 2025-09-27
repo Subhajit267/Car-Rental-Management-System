@@ -1,10 +1,13 @@
-"""welcome to car management version 3.05""" #main program
-"""BETA 2, full functionality with csv files, all features work; sql connectivity absent"""
-"""this is the main file of the program, each screen instance is stored as a function and is executed after its previous screen execution is terinated via a user input"""
-"""Developer: SUBHAJIT HALDER"""
-"""importing os,sys and my modules to gain access to system commands and the visual elements and string tables."""
+"""
+welcome to car management version 3.05 #main program
+BETA 2, full functionality with csv files, all features work; sql connectivity absent
+this is the main file of the program, each screen instance is stored as a function and is executed after its previous screen execution is terinated via a user input
+importing os,sys and my modules to gain access to system commands and the visual elements and string tables.
 
-"""file imports"""
+     Author: SUBHAJIT HALDER 
+       DATE: 12/01/2024
+"""
+#file imports
 import os,sys,csv,getpass
 """THIS MODULE IS CREATED TO DEFINE ALL VISUAL ELEMENTS FOR THE PROGRAM"""
 #It contains the cursor manipulation function named gotoxy, user icons, progress bar and program logo  
@@ -738,3 +741,4 @@ def mmui():
 #__main__
 bs()
 plpi()
+
