@@ -1,7 +1,8 @@
 """welcome to car management version 4.57""" #main program
 """BETA 9, full functionality with csv files, all features work; sql connectivity absent"""
 """this is the main file of the program, each screen instance is stored as a function and is executed after its previous screen execution is terinated via a user input"""
-"""Developer: SUBHAJIT HALDER"""
+'''     Author: SUBHAJIT HALDER 
+       DATE: 23/01/2024'''
 """importing os,sys and my modules to gain access to system commands and the visual elements and string tables."""
 
 """file imports"""
