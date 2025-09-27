@@ -1,0 +1,31 @@
+CAR_ID,Brand,Model,Type,Date of Rental,Time of Rental,Duration of Rental
+1,Toyota,Corolla,Sedan,30-08-2023,09:00,3 days
+2,Honda,Civic,Sedan,29-08-2023,10:30,2 days
+3,Ford,Focus,Hatchback,28-08-2023,14:15,1 day
+4,Chevrolet,Cruze,Sedan,27-08-2023,08:45,4 days
+5,Nissan,Altima,Sedan,26-08-2023,11:00,3 days
+6,Toyota,Rav4,SUV,25-08-2023,13:30,5 days
+7,Mazda,CX-5,SUV,24-08-2023,09:30,2 days
+8,Hyundai,Tucson,SUV,23-08-2023,12:00,3 days
+9,Jeep,Wrangler,SUV,22-08-2023,15:15,4 days
+10,Subaru,Outback,Wagon,21-08-2023,10:45,2 days
+11,Toyota,Highlander,SUV,,,
+12,Ford,Explorer,SUV,,,
+13,Chevrolet,Traverse,SUV,,,
+14,Honda,Pilot,SUV,,,
+15,Kia,Sorento,SUV,,,
+16,Hyundai,Santa Fe,SUV,,,
+17,Nissan,Murano,SUV,,,
+18,BMW,X5,SUV,,,
+19,Audi,Q5,SUV,,,
+20,Mercedes-Benz,GLC,SUV,,,
+21,Lexus,RX,SUV,,,
+22,Toyota,Prius,Hybrid,,,
+23,Honda,Insight,Hybrid,,,
+24,Ford,Escape,SUV,,,
+25,Jeep,Grand Cherokee,SUV,,,
+26,Subaru,Forester,SUV,,,
+27,Toyota,Camry,Sedan,,,
+28,Honda,Accord,Sedan,,,
+29,Nissan,Maxima,Sedan,,,
+30,Hyundai,Elantra,Sedan,,,

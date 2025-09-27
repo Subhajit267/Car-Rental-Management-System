@@ -1,0 +1,31 @@
+Car Id,Brand,Model,Type,Booking Status
+1,Toyota,Corolla,Sedan,Booked
+2,Honda,Civic,Sedan,Booked
+3,Ford,Focus,Hatchback,Booked
+4,Chevrolet,Cruze,Sedan,Booked
+5,Nissan,Altima,Sedan,Booked
+6,Toyota,Rav4,SUV,Booked
+7,Mazda,CX-5,SUV,Booked
+8,Hyundai,Tucson,SUV,Booked
+9,Jeep,Wrangler,SUV,Booked
+10,Subaru,Outback,Wagon,Booked
+11,Toyota,Highlander,SUV,Available
+12,Ford,Explorer,SUV,Available
+13,Chevrolet,Traverse,SUV,Available
+14,Honda,Pilot,SUV,Available
+15,Kia,Sorento,SUV,Booked
+16,Hyundai,Santa Fe,SUV,Available
+17,Nissan,Murano,SUV,Available
+18,BMW,X5,SUV,Available
+19,Audi,Q5,SUV,Available
+20,Mercedes-Benz,GLC,SUV,Available
+21,Lexus,RX,SUV,Available
+22,Toyota,Prius,Hybrid,Available
+23,Honda,Insight,Hybrid,Available
+24,Ford,Escape,SUV,Available
+25,Jeep,Grand Cherokee,SUV,Available
+26,Subaru,Forester,SUV,Booked
+27,Toyota,Camry,Sedan,Available
+28,Honda,Accord,Sedan,Available
+29,Nissan,Maxima,Sedan,Available
+30,Hyundai,Elantra,Sedan,Available
